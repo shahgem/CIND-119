@@ -1,5 +1,15 @@
-# CIND-119
+# Course Name: CIND-119
+
+### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **<ins>Project Team</ins>**:
+
+Ahmed, Shahzad
+
+Chandra, Akash
+
+Nguyen, Thi Ngoc Thanh
+
 ## ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  **Predicting Customer Churn** ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)
+
 
 According to IBM (2020), “data science combines the scientific method, math and statistics, specialized programming, advanced analytics, AI, and even storytelling to uncover and explain the business insights buried in data.” 1 With the emphasis on using math & statistics, programming, domain knowledge as well as story-telling skills, data scientists are experts who use the above tools and domain knowledge to make sense of patterns, giving answers to any question business stakeholders may have, and/or going further to predict possible actions and their outcomes of those actions.
 
