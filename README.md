@@ -21,6 +21,9 @@ The ability to segment customers and predict the customer churn, through data an
 
 [Project Code](https://github.com/shahgem/CIND-119/blob/main/Code/CIND119_DHC_Group1_Project_CustomerChurn.ipynb)
 
+## ![#b300b3](https://placehold.co/15x15/b300b3/b300b3.png) **Decision Trees**
+
+![](Images/Correlation.png)
 
 ## ![#b300b3](https://placehold.co/15x15/b300b3/b300b3.png) **Decision Trees**
 
