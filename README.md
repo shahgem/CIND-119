@@ -1,2 +1,8 @@
 # CIND-119
-Predicting Customer Churn
+**Predicting Customer Churn**
+
+According to IBM (2020), “data science combines the scientific method, math and statistics, specialized programming, advanced analytics, AI, and even storytelling to uncover and explain the business insights buried in data.” 1 With the emphasis on using math & statistics, programming, domain knowledge as well as story-telling skills, data scientists are experts who use the above tools and domain knowledge to make sense of patterns, giving answers to any question business stakeholders may have, and/or going further to predict possible actions and their outcomes of those actions.
+
+In this project, as a team of data scientists, our consultants are working together to solve a business problem for our client - a telecommunications company with a predictive analytics business problem. Based on historical data on the customers’ phone usage, the client would like to analyze and predict which customers will be likely to churn in the future. “Customer churn, also known as customer attrition, is when someone chooses to stop using your products or services” (Qualtrics, 2022).2 Most companies would want to control the average churn rate at a feasible level, as a high churn rate would impact brands, costs, customer engagement metrics (lower customer lifetime value (CLV) and higher customer acquisition costs (CAC) etc.), as well as the company’s long-term growth.
+
+The ability to segment customers and predict the customer churn, through data analytics, machine learning & predictive modeling methods, would be a great business advantage for our client. Thus, this project aims to find a solution to our client’s “customer churn” business problem by Exploratory Data Analysis (EDA) and Predictive Modeling/Classification techniques (Classification using Decision Tree, Naïve Bayes). The dataset we are using is “churn.arff”. There are 3333 rows, 21 columns/attributes in this dataset.
