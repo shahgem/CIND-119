@@ -1,12 +1,32 @@
-# Course Name: CIND-119
+<h1 align="center">
+  🚀 <span style="color:#FF6B6B; font-weight:bold;">Predicting Customer Churn</span> 💔
+</h1>
 
-### ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **<ins>Project Team</ins>**:
+<h3 align="center" style="color:#3498DB;">
+  📊 Data-Driven Insights to Reduce Attrition & Boost Retention 📈
+</h3>
 
-Ahmed, Shahzad
+---
 
-Chandra, Akash
+<div align="center">
+  <h3 style="color: #4A90E2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <span style="font-weight: bold;">👥 Project Team</span>
+  </h3>
+</div>
 
-Nguyen, Thi Ngoc Thanh
+<div align="center" style="margin-top: 20px;">
+  <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #FFFFFF;">
+    <span style="font-weight: 600; color: #333333;">🧑‍💻 Ahmed, Shahzad</span>
+  </div>
+  <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #FFFFFF;">
+    <span style="font-weight: 600; color: #333333;">👨‍💻 Chandra, Akash</span>
+  </div>
+  <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #FFFFFF;">
+    <span style="font-weight: 600; color: #333333;">👩‍💻 Nguyen, Thi Ngoc Thanh</span>
+  </div>
+</div>
+
+
 
 ## ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  **Predicting Customer Churn** ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)
 
